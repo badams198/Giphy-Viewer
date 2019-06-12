@@ -1,0 +1,1 @@
+A web application that uses the Giphy API to retrieve gifs by category and create a button list of those categories
